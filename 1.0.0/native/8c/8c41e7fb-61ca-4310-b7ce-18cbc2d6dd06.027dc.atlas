@@ -1,0 +1,27 @@
+
+infobar.png
+size: 240,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Win_InfoBar
+  rotate: false
+  xy: 2, 2
+  size: 236, 23
+  orig: 236, 23
+  offset: 0, 0
+  index: -1
+Win_InfoBar2.jpg
+  rotate: true
+  xy: 177, 109
+  size: 90, 23
+  orig: 97, 23
+  offset: 4, 0
+  index: -1
+yuandian
+  rotate: false
+  xy: 2, 27
+  size: 173, 172
+  orig: 204, 204
+  offset: 14, 16
+  index: -1

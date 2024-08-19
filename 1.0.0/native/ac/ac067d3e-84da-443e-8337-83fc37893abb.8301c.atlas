@@ -1,0 +1,335 @@
+
+runfast_xiaochu.jpg
+size: 1623,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Reel_Inside/vfx_glitch_01
+  rotate: true
+  xy: 2, 3
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_02
+  rotate: true
+  xy: 112, 3
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_03
+  rotate: true
+  xy: 222, 19
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_04
+  rotate: true
+  xy: 332, 19
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_05
+  rotate: true
+  xy: 612, 48
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_06
+  rotate: true
+  xy: 700, 225
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_07
+  rotate: true
+  xy: 722, 92
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_08
+  rotate: true
+  xy: 810, 225
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_09
+  rotate: true
+  xy: 832, 92
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_10
+  rotate: true
+  xy: 862, 397
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_11
+  rotate: true
+  xy: 920, 264
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_12
+  rotate: true
+  xy: 972, 397
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_13
+  rotate: true
+  xy: 942, 131
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_14
+  rotate: true
+  xy: 1030, 264
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_15
+  rotate: true
+  xy: 1082, 397
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_16
+  rotate: true
+  xy: 1052, 131
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_17
+  rotate: true
+  xy: 1140, 264
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_18
+  rotate: true
+  xy: 1192, 397
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Reel_Inside/vfx_glitch_19
+  rotate: true
+  xy: 1162, 131
+  size: 131, 108
+  orig: 131, 110
+  offset: 0, 2
+  index: -1
+images/Remove/fx_c_win_highlight_1
+  rotate: false
+  xy: 612, 12
+  size: 34, 34
+  orig: 208, 208
+  offset: 103, 82
+  index: -1
+images/Remove/fx_c_win_highlight_10
+  rotate: false
+  xy: 342, 346
+  size: 174, 182
+  orig: 208, 208
+  offset: 23, 14
+  index: -1
+images/Remove/fx_c_win_highlight_11
+  rotate: false
+  xy: 176, 152
+  size: 178, 186
+  orig: 208, 208
+  offset: 18, 15
+  index: -1
+images/Remove/fx_c_win_highlight_12
+  rotate: false
+  xy: 2, 136
+  size: 172, 192
+  orig: 208, 208
+  offset: 23, 14
+  index: -1
+images/Remove/fx_c_win_highlight_13
+  rotate: false
+  xy: 2, 330
+  size: 164, 198
+  orig: 208, 208
+  offset: 20, 10
+  index: -1
+images/Remove/fx_c_win_highlight_14
+  rotate: false
+  xy: 648, 20
+  size: 108, 26
+  orig: 208, 208
+  offset: 16, 110
+  index: -1
+images/Remove/fx_c_win_highlight_2
+  rotate: true
+  xy: 844, 28
+  size: 62, 58
+  orig: 208, 208
+  offset: 86, 70
+  index: -1
+images/Remove/fx_c_win_highlight_3
+  rotate: true
+  xy: 758, 2
+  size: 88, 84
+  orig: 208, 208
+  offset: 72, 58
+  index: -1
+images/Remove/fx_c_win_highlight_4
+  rotate: true
+  xy: 942, 7
+  size: 122, 118
+  orig: 208, 208
+  offset: 51, 40
+  index: -1
+images/Remove/fx_c_win_highlight_5
+  rotate: false
+  xy: 442, 4
+  size: 168, 164
+  orig: 208, 208
+  offset: 28, 16
+  index: -1
+images/Remove/fx_c_win_highlight_6
+  rotate: true
+  xy: 692, 358
+  size: 170, 168
+  orig: 208, 208
+  offset: 27, 15
+  index: -1
+images/Remove/fx_c_win_highlight_7
+  rotate: true
+  xy: 530, 181
+  size: 172, 168
+  orig: 208, 208
+  offset: 26, 15
+  index: -1
+images/Remove/fx_c_win_highlight_8
+  rotate: false
+  xy: 356, 170
+  size: 172, 174
+  orig: 208, 208
+  offset: 26, 11
+  index: -1
+images/Remove/fx_c_win_highlight_9
+  rotate: false
+  xy: 168, 340
+  size: 172, 188
+  orig: 208, 208
+  offset: 26, 4
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_1
+  rotate: true
+  xy: 1062, 7
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_10
+  rotate: true
+  xy: 1379, 158
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_11
+  rotate: true
+  xy: 1464, 282
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_12
+  rotate: false
+  xy: 1486, 175
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_13
+  rotate: false
+  xy: 1486, 68
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_2
+  rotate: true
+  xy: 1169, 7
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_3
+  rotate: true
+  xy: 1250, 273
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_4
+  rotate: true
+  xy: 1302, 406
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_5
+  rotate: true
+  xy: 1272, 149
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_6
+  rotate: true
+  xy: 1357, 282
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_7
+  rotate: true
+  xy: 1409, 406
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_8
+  rotate: true
+  xy: 1516, 406
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/Win_Frame2/fx_a_win_highlight_9
+  rotate: true
+  xy: 1276, 25
+  size: 122, 105
+  orig: 124, 106
+  offset: 2, 0
+  index: -1
+images/yuandian
+  rotate: true
+  xy: 518, 355
+  size: 173, 172
+  orig: 204, 204
+  offset: 14, 16
+  index: -1

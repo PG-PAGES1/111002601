@@ -1,0 +1,173 @@
+
+fx_bomb.jpg
+size: 1148,1148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb/Bomb4
+  rotate: false
+  xy: 2, 634
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_00
+  rotate: false
+  xy: 2, 44
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_01
+  rotate: false
+  xy: 898, 940
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_02
+  rotate: false
+  xy: 208, 44
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_03
+  rotate: false
+  xy: 414, 44
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_01
+  rotate: false
+  xy: 2, 252
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_02
+  rotate: false
+  xy: 516, 766
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_03
+  rotate: false
+  xy: 384, 252
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_04
+  rotate: false
+  xy: 766, 384
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_05
+  rotate: false
+  xy: 766, 2
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+
+fx_bomb2.jpg
+size: 1178,1148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb/vfx_a_bomb_feature_04
+  rotate: false
+  xy: 766, 558
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_05
+  rotate: false
+  xy: 766, 350
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_06
+  rotate: false
+  xy: 766, 142
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_07
+  rotate: false
+  xy: 972, 558
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_08
+  rotate: false
+  xy: 972, 350
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_a_bomb_feature_09
+  rotate: false
+  xy: 972, 142
+  size: 204, 206
+  orig: 204, 206
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_06
+  rotate: false
+  xy: 2, 766
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_07
+  rotate: false
+  xy: 2, 384
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_08
+  rotate: false
+  xy: 384, 766
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_09
+  rotate: false
+  xy: 2, 2
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_10
+  rotate: false
+  xy: 384, 384
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_11
+  rotate: false
+  xy: 766, 766
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1
+bomb/vfx_b_bomb_feature_12
+  rotate: false
+  xy: 384, 2
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+backlight.jpg
+size: 654,707
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background_Light/backlight_a_bonus_game
+  rotate: false
+  xy: 2, 660
+  size: 207, 45
+  orig: 207, 45
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_a_main_game
+  rotate: false
+  xy: 211, 660
+  size: 207, 45
+  orig: 207, 45
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_b_bonus_game
+  rotate: false
+  xy: 2, 578
+  size: 288, 80
+  orig: 288, 80
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_b_main_game
+  rotate: false
+  xy: 292, 578
+  size: 289, 80
+  orig: 289, 80
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_c_bonus_game
+  rotate: false
+  xy: 2, 466
+  size: 324, 110
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_c_main_game
+  rotate: false
+  xy: 328, 466
+  size: 324, 110
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_d_bonus_game
+  rotate: false
+  xy: 2, 335
+  size: 324, 129
+  orig: 324, 129
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_d_main_game
+  rotate: false
+  xy: 328, 335
+  size: 324, 129
+  orig: 324, 129
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_e_bonus_game
+  rotate: false
+  xy: 2, 172
+  size: 324, 161
+  orig: 324, 161
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_e_main_game
+  rotate: false
+  xy: 328, 172
+  size: 324, 161
+  orig: 324, 161
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_f_bonus_game
+  rotate: false
+  xy: 2, 3
+  size: 324, 167
+  orig: 324, 167
+  offset: 0, 0
+  index: -1
+Background_Light/backlight_f_main_game
+  rotate: false
+  xy: 328, 2
+  size: 324, 168
+  orig: 324, 168
+  offset: 0, 0
+  index: -1

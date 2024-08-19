@@ -1,0 +1,258 @@
+
+firework.jpg
+size: 1215,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Firework/firework_freespin_02
+  rotate: true
+  xy: 1106, 860
+  size: 76, 99
+  orig: 146, 309
+  offset: 39, 5
+  index: -1
+Firework/firework_freespin_03
+  rotate: false
+  xy: 1106, 938
+  size: 104, 129
+  orig: 146, 309
+  offset: 24, 4
+  index: -1
+Firework/firework_freespin_04
+  rotate: false
+  xy: 2, 37
+  size: 122, 171
+  orig: 146, 309
+  offset: 14, 4
+  index: -1
+Firework/firework_freespin_05
+  rotate: true
+  xy: 958, 2
+  size: 130, 211
+  orig: 146, 309
+  offset: 12, 5
+  index: -1
+Firework/firework_freespin_06
+  rotate: false
+  xy: 832, 298
+  size: 126, 253
+  orig: 146, 309
+  offset: 13, 4
+  index: -1
+Firework/firework_freespin_07
+  rotate: false
+  xy: 2, 210
+  size: 140, 279
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_08
+  rotate: false
+  xy: 826, 553
+  size: 134, 255
+  orig: 146, 309
+  offset: 6, 4
+  index: -1
+Firework/firework_freespin_09
+  rotate: false
+  xy: 645, 29
+  size: 134, 257
+  orig: 146, 309
+  offset: 7, 4
+  index: -1
+Firework/firework_freespin_10
+  rotate: true
+  xy: 126, 68
+  size: 140, 263
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_11
+  rotate: false
+  xy: 264, 529
+  size: 138, 267
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_12
+  rotate: false
+  xy: 404, 543
+  size: 140, 259
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_13
+  rotate: false
+  xy: 140, 798
+  size: 140, 269
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_14
+  rotate: false
+  xy: 424, 808
+  size: 140, 259
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_15
+  rotate: false
+  xy: 282, 266
+  size: 134, 261
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_16
+  rotate: false
+  xy: 566, 808
+  size: 134, 259
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_17
+  rotate: false
+  xy: 840, 812
+  size: 134, 255
+  orig: 146, 309
+  offset: 6, 4
+  index: -1
+Firework/firework_freespin_18
+  rotate: true
+  xy: 960, 398
+  size: 140, 253
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_19
+  rotate: false
+  xy: 2, 774
+  size: 136, 293
+  orig: 146, 309
+  offset: 6, 4
+  index: -1
+Firework/firework_freespin_20
+  rotate: false
+  xy: 686, 549
+  size: 138, 257
+  orig: 146, 309
+  offset: 5, 4
+  index: -1
+Firework/firework_freespin_21
+  rotate: false
+  xy: 282, 804
+  size: 140, 263
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_22
+  rotate: false
+  xy: 418, 282
+  size: 140, 259
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_23
+  rotate: false
+  xy: 144, 226
+  size: 136, 269
+  orig: 146, 309
+  offset: 7, 4
+  index: -1
+Firework/firework_freespin_24
+  rotate: false
+  xy: 702, 810
+  size: 136, 257
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_25
+  rotate: false
+  xy: 560, 288
+  size: 140, 257
+  orig: 146, 309
+  offset: 3, 4
+  index: -1
+Firework/firework_freespin_26
+  rotate: false
+  xy: 2, 491
+  size: 130, 281
+  orig: 146, 309
+  offset: 5, 4
+  index: -1
+Firework/firework_freespin_27
+  rotate: true
+  xy: 962, 676
+  size: 134, 249
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_28
+  rotate: true
+  xy: 960, 266
+  size: 130, 253
+  orig: 146, 309
+  offset: 5, 4
+  index: -1
+Firework/firework_freespin_29
+  rotate: false
+  xy: 832, 49
+  size: 124, 247
+  orig: 146, 309
+  offset: 9, 4
+  index: -1
+Firework/firework_freespin_30
+  rotate: false
+  xy: 134, 497
+  size: 128, 275
+  orig: 146, 309
+  offset: 8, 4
+  index: -1
+Firework/firework_freespin_31
+  rotate: false
+  xy: 702, 290
+  size: 128, 257
+  orig: 146, 309
+  offset: 9, 4
+  index: -1
+Firework/firework_freespin_32
+  rotate: false
+  xy: 976, 812
+  size: 128, 255
+  orig: 146, 309
+  offset: 9, 4
+  index: -1
+Firework/firework_freespin_33
+  rotate: false
+  xy: 546, 547
+  size: 138, 259
+  orig: 146, 309
+  offset: 4, 4
+  index: -1
+Firework/firework_freespin_34
+  rotate: false
+  xy: 391, 3
+  size: 126, 261
+  orig: 146, 309
+  offset: 13, 4
+  index: -1
+Firework/firework_freespin_35
+  rotate: true
+  xy: 958, 134
+  size: 130, 247
+  orig: 146, 309
+  offset: 8, 4
+  index: -1
+Firework/firework_freespin_36
+  rotate: false
+  xy: 519, 21
+  size: 124, 259
+  orig: 146, 309
+  offset: 14, 4
+  index: -1
+Firework/firework_freespin_37
+  rotate: true
+  xy: 962, 540
+  size: 134, 247
+  orig: 146, 309
+  offset: 8, 5
+  index: -1

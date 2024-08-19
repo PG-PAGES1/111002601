@@ -1,0 +1,27 @@
+
+fx_btn.jpg
+size: 135,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spin_Btn_Light/spin_vfx_a
+  rotate: true
+  xy: 80, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Spin_Btn_Light/spin_vfx_b
+  rotate: false
+  xy: 80, 41
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Spin_Btn_Light/spin_vfx_c
+  rotate: false
+  xy: 2, 18
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+freeloading.png
+size: 1764,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free_Back2
+  rotate: false
+  xy: 2, 435
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_00
+  rotate: false
+  xy: 2, 126
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_01
+  rotate: false
+  xy: 516, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_02
+  rotate: false
+  xy: 158, 126
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_03
+  rotate: false
+  xy: 672, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_04
+  rotate: true
+  xy: 516, 484
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_05
+  rotate: false
+  xy: 314, 126
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_06
+  rotate: false
+  xy: 828, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_07
+  rotate: false
+  xy: 984, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_08
+  rotate: true
+  xy: 825, 484
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_09
+  rotate: false
+  xy: 1140, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_10
+  rotate: false
+  xy: 1296, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_11
+  rotate: true
+  xy: 1134, 484
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_12
+  rotate: false
+  xy: 1452, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_13
+  rotate: false
+  xy: 1608, 640
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_14
+  rotate: true
+  xy: 1443, 484
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_15
+  rotate: true
+  xy: 516, 328
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_16
+  rotate: true
+  xy: 825, 328
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_17
+  rotate: true
+  xy: 1134, 328
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_18
+  rotate: true
+  xy: 1443, 328
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_19
+  rotate: true
+  xy: 470, 172
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_20
+  rotate: true
+  xy: 779, 172
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_21
+  rotate: true
+  xy: 1088, 172
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_22
+  rotate: true
+  xy: 1397, 172
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_23
+  rotate: true
+  xy: 470, 16
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_24
+  rotate: true
+  xy: 779, 16
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_25
+  rotate: true
+  xy: 1088, 16
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+Free_Loading_Back/vfx_g_free_spin_26
+  rotate: true
+  xy: 1397, 16
+  size: 154, 307
+  orig: 154, 307
+  offset: 0, 0
+  index: -1
+a31
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

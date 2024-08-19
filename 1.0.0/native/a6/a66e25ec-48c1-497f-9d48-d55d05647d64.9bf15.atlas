@@ -1,0 +1,1052 @@
+
+Figure_Motions_Nomal.png
+size: 1596,1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Figure_Motions/idle_normal_01
+  rotate: true
+  xy: 487, 1044
+  size: 194, 330
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_02
+  rotate: true
+  xy: 819, 1035
+  size: 194, 330
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_03
+  rotate: true
+  xy: 1248, 303
+  size: 196, 328
+  orig: 542, 450
+  offset: 176, 12
+  index: -1
+Figure_Motions/idle_normal_04
+  rotate: true
+  xy: 2, 253
+  size: 196, 328
+  orig: 542, 450
+  offset: 176, 12
+  index: -1
+Figure_Motions/idle_normal_05
+  rotate: true
+  xy: 332, 238
+  size: 196, 328
+  orig: 542, 450
+  offset: 176, 12
+  index: -1
+Figure_Motions/idle_normal_06
+  rotate: true
+  xy: 928, 617
+  size: 195, 323
+  orig: 542, 450
+  offset: 177, 12
+  index: -1
+Figure_Motions/idle_normal_07
+  rotate: true
+  xy: 293, 451
+  size: 195, 322
+  orig: 542, 450
+  offset: 177, 12
+  index: -1
+Figure_Motions/idle_normal_08
+  rotate: true
+  xy: 924, 420
+  size: 195, 322
+  orig: 542, 450
+  offset: 177, 12
+  index: -1
+Figure_Motions/idle_normal_09
+  rotate: true
+  xy: 2, 857
+  size: 194, 312
+  orig: 542, 450
+  offset: 178, 7
+  index: -1
+Figure_Motions/idle_normal_10
+  rotate: true
+  xy: 316, 848
+  size: 194, 308
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_15
+  rotate: true
+  xy: 626, 839
+  size: 194, 312
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_16
+  rotate: true
+  xy: 940, 814
+  size: 194, 311
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_17
+  rotate: true
+  xy: 1253, 697
+  size: 194, 311
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_18
+  rotate: true
+  xy: 2, 661
+  size: 194, 311
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/idle_normal_19
+  rotate: true
+  xy: 1253, 501
+  size: 194, 327
+  orig: 542, 450
+  offset: 178, 9
+  index: -1
+Figure_Motions/pow1_normal_01
+  rotate: true
+  xy: 932, 2
+  size: 205, 301
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_03
+  rotate: true
+  xy: 620, 12
+  size: 203, 310
+  orig: 542, 450
+  offset: 200, 5
+  index: -1
+Figure_Motions/pow1_normal_04
+  rotate: true
+  xy: 617, 436
+  size: 201, 305
+  orig: 542, 450
+  offset: 202, 9
+  index: -1
+Figure_Motions/pow1_normal_08
+  rotate: true
+  xy: 315, 648
+  size: 198, 305
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_09
+  rotate: true
+  xy: 622, 639
+  size: 198, 304
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_12
+  rotate: true
+  xy: 958, 209
+  size: 209, 286
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow2_normal_04
+  rotate: true
+  xy: 1246, 99
+  size: 202, 307
+  orig: 542, 450
+  offset: 192, 11
+  index: -1
+Figure_Motions/pow2_normal_05
+  rotate: true
+  xy: 2, 49
+  size: 202, 307
+  orig: 542, 450
+  offset: 192, 11
+  index: -1
+Figure_Motions/pow2_normal_06
+  rotate: true
+  xy: 311, 34
+  size: 202, 307
+  orig: 542, 450
+  offset: 192, 11
+  index: -1
+Figure_Motions/pow3_normal_01
+  rotate: false
+  xy: 1388, 1175
+  size: 201, 249
+  orig: 542, 450
+  offset: 167, 19
+  index: -1
+Figure_Motions/pow3_normal_02
+  rotate: true
+  xy: 498, 1244
+  size: 194, 239
+  orig: 542, 450
+  offset: 169, 22
+  index: -1
+Figure_Motions/pow3_normal_03
+  rotate: true
+  xy: 1151, 1010
+  size: 219, 229
+  orig: 542, 450
+  offset: 152, 45
+  index: -1
+Figure_Motions/pow3_normal_05
+  rotate: false
+  xy: 1382, 893
+  size: 212, 280
+  orig: 542, 450
+  offset: 135, 46
+  index: -1
+Figure_Motions/pow3_normal_13
+  rotate: true
+  xy: 1298, 1426
+  size: 172, 289
+  orig: 542, 450
+  offset: 167, 12
+  index: -1
+Figure_Motions/pow3_normal_14
+  rotate: true
+  xy: 1014, 1432
+  size: 166, 282
+  orig: 542, 450
+  offset: 170, 17
+  index: -1
+Figure_Motions/pow3_normal_16
+  rotate: true
+  xy: 2, 461
+  size: 198, 289
+  orig: 542, 450
+  offset: 220, 26
+  index: -1
+Figure_Motions/pow3_normal_17
+  rotate: true
+  xy: 1105, 1231
+  size: 193, 281
+  orig: 542, 450
+  offset: 222, 27
+  index: -1
+Figure_Motions/pow3_normal_18
+  rotate: true
+  xy: 662, 217
+  size: 201, 294
+  orig: 542, 450
+  offset: 266, 40
+  index: -1
+Figure_Motions/pow3_normal_26
+  rotate: true
+  xy: 218, 1053
+  size: 217, 267
+  orig: 542, 450
+  offset: 246, 60
+  index: -1
+Figure_Motions/pow3_normal_27
+  rotate: true
+  xy: 228, 1272
+  size: 188, 268
+  orig: 542, 450
+  offset: 225, 35
+  index: -1
+Figure_Motions/pow3_to_idle_normal_01
+  rotate: false
+  xy: 2, 1105
+  size: 214, 227
+  orig: 542, 450
+  offset: 156, 38
+  index: -1
+Figure_Motions/pow4_normal_06
+  rotate: true
+  xy: 739, 1240
+  size: 190, 364
+  orig: 542, 450
+  offset: 174, 30
+  index: -1
+Second_Win_Effect/vfx_g_character_2
+  rotate: true
+  xy: 502, 1440
+  size: 158, 258
+  orig: 252, 310
+  offset: 15, 41
+  index: -1
+Second_Win_Effect/vfx_g_character_3
+  rotate: true
+  xy: 762, 1436
+  size: 162, 250
+  orig: 252, 310
+  offset: 12, 5
+  index: -1
+Second_Win_Effect/vfx_g_character_4
+  rotate: true
+  xy: 2, 1334
+  size: 178, 224
+  orig: 252, 310
+  offset: 17, 1
+  index: -1
+Second_Win_Effect/vfx_g_character_5
+  rotate: false
+  xy: 314, 1462
+  size: 186, 136
+  orig: 252, 310
+  offset: 36, 10
+  index: -1
+Second_Win_Effect/vfx_g_character_6
+  rotate: false
+  xy: 54, 1524
+  size: 166, 74
+  orig: 252, 310
+  offset: 63, 12
+  index: -1
+Second_Win_Effect/vfx_g_character_7
+  rotate: false
+  xy: 222, 1514
+  size: 90, 84
+  orig: 252, 310
+  offset: 145, 16
+  index: -1
+Second_Win_Effect/vfx_g_character_8
+  rotate: true
+  xy: 2, 1550
+  size: 48, 50
+  orig: 252, 310
+  offset: 187, 56
+  index: -1
+
+Figure_Motions_Nomal2.png
+size: 1593,1491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Figure_Motions/idle_to_pow1_normal_01
+  rotate: true
+  xy: 953, 4
+  size: 219, 322
+  orig: 542, 450
+  offset: 191, 8
+  index: -1
+Figure_Motions/pow1_normal_02
+  rotate: true
+  xy: 416, 1080
+  size: 205, 299
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_05
+  rotate: true
+  xy: 650, 656
+  size: 209, 314
+  orig: 542, 450
+  offset: 188, 6
+  index: -1
+Figure_Motions/pow1_normal_06
+  rotate: true
+  xy: 896, 867
+  size: 208, 311
+  orig: 542, 450
+  offset: 189, 9
+  index: -1
+Figure_Motions/pow1_normal_07
+  rotate: true
+  xy: 1209, 867
+  size: 208, 311
+  orig: 542, 450
+  offset: 189, 9
+  index: -1
+Figure_Motions/pow1_normal_10
+  rotate: true
+  xy: 895, 443
+  size: 211, 293
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_11
+  rotate: true
+  xy: 2, 449
+  size: 210, 292
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_13
+  rotate: true
+  xy: 2, 664
+  size: 209, 286
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_14
+  rotate: true
+  xy: 966, 656
+  size: 209, 286
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_15
+  rotate: true
+  xy: 1254, 656
+  size: 209, 286
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_16
+  rotate: true
+  xy: 896, 225
+  size: 216, 292
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_17
+  rotate: true
+  xy: 1190, 225
+  size: 216, 291
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_18
+  rotate: true
+  xy: 296, 449
+  size: 210, 298
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_19
+  rotate: true
+  xy: 596, 444
+  size: 210, 297
+  orig: 542, 450
+  offset: 203, 9
+  index: -1
+Figure_Motions/pow1_normal_22
+  rotate: true
+  xy: 1277, 2
+  size: 221, 312
+  orig: 542, 450
+  offset: 182, 9
+  index: -1
+Figure_Motions/pow1_normal_29
+  rotate: true
+  xy: 294, 871
+  size: 207, 290
+  orig: 542, 450
+  offset: 205, 9
+  index: -1
+Figure_Motions/pow1_normal_30
+  rotate: true
+  xy: 717, 1080
+  size: 205, 290
+  orig: 542, 450
+  offset: 206, 9
+  index: -1
+Figure_Motions/pow1_normal_31
+  rotate: true
+  xy: 1009, 1077
+  size: 206, 290
+  orig: 542, 450
+  offset: 205, 9
+  index: -1
+Figure_Motions/pow1_normal_32
+  rotate: true
+  xy: 1301, 1077
+  size: 206, 290
+  orig: 542, 450
+  offset: 205, 9
+  index: -1
+Figure_Motions/pow1_normal_33
+  rotate: true
+  xy: 2, 875
+  size: 206, 290
+  orig: 542, 450
+  offset: 205, 9
+  index: -1
+Figure_Motions/pow2_normal_03
+  rotate: true
+  xy: 586, 871
+  size: 207, 308
+  orig: 542, 450
+  offset: 192, 11
+  index: -1
+Figure_Motions/pow2_normal_15
+  rotate: true
+  xy: 329, 9
+  size: 217, 303
+  orig: 542, 450
+  offset: 208, 1
+  index: -1
+Figure_Motions/pow2_to_idle_normal_01
+  rotate: true
+  xy: 1190, 443
+  size: 211, 320
+  orig: 542, 450
+  offset: 195, 10
+  index: -1
+Figure_Motions/pow3_normal_04
+  rotate: true
+  xy: 299, 233
+  size: 214, 287
+  orig: 542, 450
+  offset: 135, 45
+  index: -1
+Figure_Motions/pow3_normal_21
+  rotate: false
+  xy: 2, 234
+  size: 295, 213
+  orig: 542, 450
+  offset: 225, 99
+  index: -1
+Figure_Motions/pow3_normal_23
+  rotate: false
+  xy: 634, 5
+  size: 317, 218
+  orig: 542, 450
+  offset: 212, 115
+  index: -1
+Figure_Motions/pow3_to_pow4_normal_01
+  rotate: true
+  xy: 588, 228
+  size: 213, 306
+  orig: 542, 450
+  offset: 184, 19
+  index: -1
+Figure_Motions/pow3_to_pow4_normal_02
+  rotate: true
+  xy: 2, 15
+  size: 216, 325
+  orig: 542, 450
+  offset: 168, 17
+  index: -1
+Figure_Motions/pow4_normal_03
+  rotate: true
+  xy: 290, 661
+  size: 208, 358
+  orig: 542, 450
+  offset: 142, 2
+  index: -1
+Movement_Effect2/vfx_d_character_1
+  rotate: false
+  xy: 2, 1287
+  size: 398, 202
+  orig: 540, 482
+  offset: 85, 3
+  index: -1
+Movement_Effect2/vfx_d_character_2
+  rotate: false
+  xy: 402, 1287
+  size: 418, 202
+  orig: 540, 482
+  offset: 67, 3
+  index: -1
+Movement_Effect2/vfx_d_character_3
+  rotate: false
+  xy: 822, 1287
+  size: 422, 202
+  orig: 540, 482
+  offset: 61, 3
+  index: -1
+Movement_Effect2/vfx_d_character_4
+  rotate: false
+  xy: 2, 1083
+  size: 412, 202
+  orig: 540, 482
+  offset: 64, 3
+  index: -1
+Movement_Effect2/vfx_d_character_5
+  rotate: false
+  xy: 1246, 1285
+  size: 344, 204
+  orig: 540, 482
+  offset: 109, 3
+  index: -1
+
+Figure_Motions_Nomal3.png
+size: 1536,1588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Figure_Motions/pow1_normal_20
+  rotate: false
+  xy: 945, 918
+  size: 222, 309
+  orig: 542, 450
+  offset: 185, 7
+  index: -1
+Figure_Motions/pow1_normal_21
+  rotate: true
+  xy: 1169, 750
+  size: 222, 312
+  orig: 542, 450
+  offset: 181, 9
+  index: -1
+Figure_Motions/pow1_normal_23
+  rotate: true
+  xy: 625, 983
+  size: 228, 318
+  orig: 542, 450
+  offset: 171, 4
+  index: -1
+Figure_Motions/pow1_normal_24
+  rotate: true
+  xy: 940, 78
+  size: 224, 309
+  orig: 542, 450
+  offset: 175, 9
+  index: -1
+Figure_Motions/pow1_normal_25
+  rotate: false
+  xy: 1122, 1286
+  size: 286, 300
+  orig: 542, 450
+  offset: 141, 9
+  index: -1
+Figure_Motions/pow1_normal_26
+  rotate: false
+  xy: 1251, 2
+  size: 283, 300
+  orig: 542, 450
+  offset: 142, 9
+  index: -1
+Figure_Motions/pow2_normal_13
+  rotate: false
+  xy: 944, 304
+  size: 223, 300
+  orig: 542, 450
+  offset: 194, 11
+  index: -1
+Figure_Motions/pow2_normal_16
+  rotate: false
+  xy: 446, 183
+  size: 227, 312
+  orig: 542, 450
+  offset: 199, 11
+  index: -1
+Figure_Motions/pow2_normal_18
+  rotate: false
+  xy: 945, 606
+  size: 222, 310
+  orig: 542, 450
+  offset: 204, 13
+  index: -1
+Figure_Motions/pow2_normal_19
+  rotate: true
+  xy: 1169, 527
+  size: 221, 310
+  orig: 542, 450
+  offset: 204, 13
+  index: -1
+Figure_Motions/pow2_normal_20
+  rotate: true
+  xy: 1169, 304
+  size: 221, 310
+  orig: 542, 450
+  offset: 204, 13
+  index: -1
+Figure_Motions/pow3_normal_09
+  rotate: true
+  xy: 675, 690
+  size: 291, 268
+  orig: 542, 450
+  offset: 77, 91
+  index: -1
+Figure_Motions/pow3_normal_10
+  rotate: false
+  xy: 675, 157
+  size: 263, 233
+  orig: 542, 450
+  offset: 108, 85
+  index: -1
+Figure_Motions/pow3_normal_22
+  rotate: true
+  xy: 223, 144
+  size: 320, 221
+  orig: 542, 450
+  offset: 211, 114
+  index: -1
+Figure_Motions/pow3_normal_24
+  rotate: true
+  xy: 1169, 974
+  size: 310, 252
+  orig: 542, 450
+  offset: 202, 95
+  index: -1
+Figure_Motions/pow4_normal_01
+  rotate: false
+  xy: 2, 466
+  size: 222, 374
+  orig: 542, 450
+  offset: 168, 9
+  index: -1
+Figure_Motions/pow4_normal_02
+  rotate: false
+  xy: 2, 97
+  size: 219, 367
+  orig: 542, 450
+  offset: 169, 11
+  index: -1
+Figure_Motions/pow4_normal_04
+  rotate: false
+  xy: 226, 497
+  size: 228, 343
+  orig: 542, 450
+  offset: 143, 4
+  index: -1
+Figure_Motions/pow4_normal_05
+  rotate: true
+  xy: 282, 985
+  size: 226, 341
+  orig: 542, 450
+  offset: 143, 5
+  index: -1
+Figure_Motions/pow4_normal_07
+  rotate: false
+  xy: 2, 842
+  size: 270, 359
+  orig: 542, 450
+  offset: 137, 53
+  index: -1
+Figure_Motions/pow4_normal_08
+  rotate: false
+  xy: 856, 1229
+  size: 264, 357
+  orig: 542, 450
+  offset: 139, 55
+  index: -1
+Figure_Motions/pow4_normal_09
+  rotate: false
+  xy: 282, 1213
+  size: 285, 373
+  orig: 542, 450
+  offset: 126, 69
+  index: -1
+Figure_Motions/pow4_normal_10
+  rotate: false
+  xy: 569, 1213
+  size: 285, 373
+  orig: 542, 450
+  offset: 126, 69
+  index: -1
+Figure_Motions/pow4_normal_11
+  rotate: false
+  xy: 2, 1203
+  size: 278, 383
+  orig: 542, 450
+  offset: 131, 64
+  index: -1
+Figure_Motions/pow4_to_idle_normal_02
+  rotate: false
+  xy: 675, 392
+  size: 267, 296
+  orig: 542, 450
+  offset: 145, 2
+  index: -1
+
+Figure_Motions_Nomal4.png
+size: 1516,1432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Figure_Motions/pow1_normal_27
+  rotate: true
+  xy: 577, 980
+  size: 227, 295
+  orig: 542, 450
+  offset: 187, 9
+  index: -1
+Figure_Motions/pow1_normal_28
+  rotate: true
+  xy: 1219, 1205
+  size: 225, 295
+  orig: 542, 450
+  offset: 189, 9
+  index: -1
+Figure_Motions/pow1_to_pow2_normal_01
+  rotate: true
+  xy: 555, 749
+  size: 229, 309
+  orig: 542, 450
+  offset: 192, 7
+  index: -1
+Figure_Motions/pow2_normal_01
+  rotate: true
+  xy: 282, 516
+  size: 231, 294
+  orig: 542, 450
+  offset: 187, 11
+  index: -1
+Figure_Motions/pow2_normal_02
+  rotate: true
+  xy: 817, 512
+  size: 231, 293
+  orig: 542, 450
+  offset: 187, 11
+  index: -1
+Figure_Motions/pow2_normal_07
+  rotate: true
+  xy: 310, 277
+  size: 234, 293
+  orig: 542, 450
+  offset: 182, 10
+  index: -1
+Figure_Motions/pow2_normal_08
+  rotate: true
+  xy: 1112, 511
+  size: 231, 292
+  orig: 542, 450
+  offset: 183, 10
+  index: -1
+Figure_Motions/pow2_normal_09
+  rotate: true
+  xy: 2, 31
+  size: 249, 300
+  orig: 542, 450
+  offset: 179, 12
+  index: -1
+Figure_Motions/pow2_normal_10
+  rotate: true
+  xy: 603, 22
+  size: 252, 298
+  orig: 542, 450
+  offset: 167, 16
+  index: -1
+Figure_Motions/pow2_normal_11
+  rotate: true
+  xy: 304, 25
+  size: 250, 297
+  orig: 542, 450
+  offset: 168, 17
+  index: -1
+Figure_Motions/pow2_normal_12
+  rotate: true
+  xy: 866, 745
+  size: 230, 302
+  orig: 542, 450
+  offset: 179, 13
+  index: -1
+Figure_Motions/pow2_normal_14
+  rotate: true
+  xy: 2, 1209
+  size: 221, 299
+  orig: 542, 450
+  offset: 195, 12
+  index: -1
+Figure_Motions/pow2_normal_17
+  rotate: true
+  xy: 874, 977
+  size: 227, 309
+  orig: 542, 450
+  offset: 199, 13
+  index: -1
+Figure_Motions/pow2_normal_21
+  rotate: true
+  xy: 1185, 976
+  size: 227, 299
+  orig: 542, 450
+  offset: 206, 8
+  index: -1
+Figure_Motions/pow2_normal_22
+  rotate: true
+  xy: 2, 982
+  size: 225, 298
+  orig: 542, 450
+  offset: 207, 8
+  index: -1
+Figure_Motions/pow2_normal_23
+  rotate: true
+  xy: 2, 282
+  size: 232, 306
+  orig: 542, 450
+  offset: 197, 11
+  index: -1
+Figure_Motions/pow2_normal_24
+  rotate: true
+  xy: 1170, 744
+  size: 230, 303
+  orig: 542, 450
+  offset: 198, 13
+  index: -1
+Figure_Motions/pow2_normal_25
+  rotate: true
+  xy: 916, 1206
+  size: 224, 301
+  orig: 542, 450
+  offset: 196, 12
+  index: -1
+Figure_Motions/pow2_normal_26
+  rotate: true
+  xy: 303, 1209
+  size: 221, 301
+  orig: 542, 450
+  offset: 198, 12
+  index: -1
+Figure_Motions/pow2_normal_27
+  rotate: true
+  xy: 605, 276
+  size: 234, 296
+  orig: 542, 450
+  offset: 188, 11
+  index: -1
+Figure_Motions/pow2_to_pow3_normal_01
+  rotate: true
+  xy: 2, 519
+  size: 230, 278
+  orig: 542, 450
+  offset: 180, 4
+  index: -1
+Figure_Motions/pow3_normal_11
+  rotate: false
+  xy: 2, 753
+  size: 260, 227
+  orig: 542, 450
+  offset: 111, 86
+  index: -1
+Figure_Motions/pow3_normal_15
+  rotate: false
+  xy: 578, 513
+  size: 237, 234
+  orig: 542, 450
+  offset: 198, 32
+  index: -1
+Figure_Motions/pow3_normal_19
+  rotate: false
+  xy: 903, 263
+  size: 280, 246
+  orig: 542, 450
+  offset: 204, 79
+  index: -1
+Figure_Motions/pow3_normal_20
+  rotate: false
+  xy: 1185, 263
+  size: 271, 246
+  orig: 542, 450
+  offset: 211, 79
+  index: -1
+Figure_Motions/pow3_normal_25
+  rotate: true
+  xy: 302, 981
+  size: 226, 273
+  orig: 542, 450
+  offset: 242, 56
+  index: -1
+Figure_Motions/pow3_to_idle_normal_02
+  rotate: true
+  xy: 264, 751
+  size: 228, 289
+  orig: 542, 450
+  offset: 159, 13
+  index: -1
+Figure_Motions/pow4_to_idle_normal_01
+  rotate: true
+  xy: 606, 1209
+  size: 221, 308
+  orig: 542, 450
+  offset: 158, 18
+  index: -1
+Special_Effect/vfx_e_character_02
+  rotate: true
+  xy: 903, 2
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_03
+  rotate: true
+  xy: 1180, 2
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+
+Figure_Motions_Nomal5.png
+size: 1374,802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Figure_Motions/pow3_normal_06
+  rotate: false
+  xy: 1110, 235
+  size: 262, 288
+  orig: 542, 450
+  offset: 105, 64
+  index: -1
+Figure_Motions/pow3_normal_07
+  rotate: false
+  xy: 584, 2
+  size: 304, 276
+  orig: 542, 450
+  offset: 86, 85
+  index: -1
+Figure_Motions/pow3_normal_08
+  rotate: false
+  xy: 282, 5
+  size: 300, 273
+  orig: 542, 450
+  offset: 88, 87
+  index: -1
+Figure_Motions/pow3_normal_12
+  rotate: true
+  xy: 2, 6
+  size: 272, 278
+  orig: 542, 450
+  offset: 130, 47
+  index: -1
+Special_Effect/vfx_e_character_04
+  rotate: true
+  xy: 2, 541
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_05
+  rotate: true
+  xy: 279, 541
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_06
+  rotate: true
+  xy: 556, 541
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_07
+  rotate: true
+  xy: 833, 541
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_08
+  rotate: false
+  xy: 1110, 525
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_09
+  rotate: true
+  xy: 2, 280
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_10
+  rotate: true
+  xy: 279, 280
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_11
+  rotate: true
+  xy: 556, 280
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1
+Special_Effect/vfx_e_character_12
+  rotate: true
+  xy: 833, 280
+  size: 259, 275
+  orig: 259, 275
+  offset: 0, 0
+  index: -1

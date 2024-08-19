@@ -1,0 +1,153 @@
+
+Multi_Pattern.jpg
+size: 1085,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Atom
+  rotate: false
+  xy: 1014, 385
+  size: 28, 28
+  orig: 31, 31
+  offset: 1, 2
+  index: -1
+Multi_Frame1
+  rotate: false
+  xy: 791, 30
+  size: 173, 147
+  orig: 173, 147
+  offset: 0, 0
+  index: -1
+Multi_Frame2/arrow_multipier_bonus
+  rotate: false
+  xy: 1042, 466
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Multi_Frame2/arrow_multipier_main
+  rotate: true
+  xy: 966, 39
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Multi_Frame3
+  rotate: true
+  xy: 260, 18
+  size: 123, 183
+  orig: 123, 183
+  offset: 0, 0
+  index: -1
+Multi_Light
+  rotate: false
+  xy: 2, 2
+  size: 256, 521
+  orig: 256, 521
+  offset: 0, 0
+  index: -1
+Remove/fx_c_win_highlight_1
+  rotate: false
+  xy: 1042, 430
+  size: 34, 34
+  orig: 208, 208
+  offset: 103, 82
+  index: -1
+Remove/fx_c_win_highlight_10
+  rotate: true
+  xy: 830, 349
+  size: 174, 182
+  orig: 208, 208
+  offset: 23, 14
+  index: -1
+Remove/fx_c_win_highlight_11
+  rotate: false
+  xy: 260, 337
+  size: 178, 186
+  orig: 208, 208
+  offset: 18, 15
+  index: -1
+Remove/fx_c_win_highlight_12
+  rotate: false
+  xy: 260, 143
+  size: 172, 192
+  orig: 208, 208
+  offset: 23, 14
+  index: -1
+Remove/fx_c_win_highlight_13
+  rotate: true
+  xy: 440, 359
+  size: 164, 198
+  orig: 208, 208
+  offset: 20, 10
+  index: -1
+Remove/fx_c_win_highlight_14
+  rotate: true
+  xy: 1014, 415
+  size: 108, 26
+  orig: 208, 208
+  offset: 16, 110
+  index: -1
+Remove/fx_c_win_highlight_2
+  rotate: false
+  xy: 966, 79
+  size: 62, 58
+  orig: 208, 208
+  offset: 86, 70
+  index: -1
+Remove/fx_c_win_highlight_3
+  rotate: false
+  xy: 966, 139
+  size: 88, 84
+  orig: 208, 208
+  offset: 72, 58
+  index: -1
+Remove/fx_c_win_highlight_4
+  rotate: true
+  xy: 965, 225
+  size: 122, 118
+  orig: 208, 208
+  offset: 51, 40
+  index: -1
+Remove/fx_c_win_highlight_5
+  rotate: false
+  xy: 615, 11
+  size: 168, 164
+  orig: 208, 208
+  offset: 28, 16
+  index: -1
+Remove/fx_c_win_highlight_6
+  rotate: true
+  xy: 445, 13
+  size: 170, 168
+  orig: 208, 208
+  offset: 27, 15
+  index: -1
+Remove/fx_c_win_highlight_7
+  rotate: false
+  xy: 791, 179
+  size: 172, 168
+  orig: 208, 208
+  offset: 26, 15
+  index: -1
+Remove/fx_c_win_highlight_8
+  rotate: true
+  xy: 440, 185
+  size: 172, 174
+  orig: 208, 208
+  offset: 26, 11
+  index: -1
+Remove/fx_c_win_highlight_9
+  rotate: true
+  xy: 640, 351
+  size: 172, 188
+  orig: 208, 208
+  offset: 26, 4
+  index: -1
+yuandian
+  rotate: false
+  xy: 616, 177
+  size: 173, 172
+  orig: 204, 204
+  offset: 14, 16
+  index: -1

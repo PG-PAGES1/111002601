@@ -1,0 +1,104 @@
+
+fensanjiasu.jpg
+size: 496,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzou/fx_fast_spin_04_01
+  rotate: false
+  xy: 2, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_11
+  rotate: false
+  xy: 2, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_02
+  rotate: false
+  xy: 267, 2
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_12
+  rotate: false
+  xy: 267, 2
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_03
+  rotate: false
+  xy: 55, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_13
+  rotate: false
+  xy: 55, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_05
+  rotate: false
+  xy: 418, 2
+  size: 43, 170
+  orig: 47, 170
+  offset: 4, 0
+  index: -1
+gunzou/fx_fast_spin_04_06
+  rotate: false
+  xy: 463, 2
+  size: 31, 170
+  orig: 41, 170
+  offset: 10, 0
+  index: -1
+gunzou/fx_fast_spin_04_07
+  rotate: false
+  xy: 108, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_08
+  rotate: false
+  xy: 161, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_09
+  rotate: false
+  xy: 318, 2
+  size: 49, 170
+  orig: 49, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_10
+  rotate: false
+  xy: 214, 2
+  size: 51, 170
+  orig: 51, 170
+  offset: 0, 0
+  index: -1
+gunzou/fx_fast_spin_04_14
+  rotate: false
+  xy: 369, 2
+  size: 47, 170
+  orig: 49, 170
+  offset: 2, 0
+  index: -1
+gunzou/fx_fast_spin_04_04
+  rotate: false
+  xy: 369, 2
+  size: 47, 170
+  orig: 49, 170
+  offset: 2, 0
+  index: -1
